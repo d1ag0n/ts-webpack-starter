@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "module": "es6",
+    "target": "es6",
+    "sourceMap": true,
+    "lib": [
+      "es2015",
+      "dom",
+      "webworker"
+    ],
+    "moduleResolution": "node",
+    "allowJs": false
+  },
+  "exclude": [
+    "node_modules",
+    "./src/legacy"
+  ],
+  "include": ["./src/**/*.ts"]
+}
