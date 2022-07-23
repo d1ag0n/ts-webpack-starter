@@ -1,5 +1,5 @@
 {
-  "name": "custom",
+  "name": "ts-webpack-starter",
   "version": "1.0.0",
   "private": true,
   "scripts": {

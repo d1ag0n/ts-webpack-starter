@@ -1,9 +1,5 @@
 export class App {
-
-    public constructor() {
-
-    }
-    public initialize() {
-		console.log('App Initialized');
-    }
+  public initialize() {
+    console.log('App Initialized');
+  }
 }
